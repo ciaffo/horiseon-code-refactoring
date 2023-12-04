@@ -2,8 +2,8 @@
 
 ## Description
 
-Code refactoring to follow accessibility for Horiseon website.
-Consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements and is optimized for search engines.
+Code refactoring to follow accessibility standards for Horiseon website.
+Consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements.
 
 # <Horiseon Code Refactor>
 
@@ -25,4 +25,4 @@ N/A
 
 ## License
 
----
+N/A
